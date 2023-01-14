@@ -1,0 +1,17 @@
+{
+    "date": "2023-01-13",
+    "movementType": "debito",
+    "amount": "2000",
+    "cuentaEntity": {
+        "id": 2,
+        "accountNumber": 478758,
+        "accountType": "Ahorro",
+        "initialBalance": 2200.00,
+        "state": "1",
+        "clienteEntity": {
+            "id": 1,
+            "password": "xxx256",
+            "state": 1
+        }
+    }
+}
